@@ -1,2 +1,0 @@
-# exercise
-for exercise
